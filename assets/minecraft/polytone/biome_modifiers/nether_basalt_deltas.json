@@ -1,0 +1,8 @@
+{
+  "water_color": 4341314,
+  "water_fog_color": 4341314,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#423e42"
+  },
+  "targets": ["minecraft:basalt_deltas"]
+}

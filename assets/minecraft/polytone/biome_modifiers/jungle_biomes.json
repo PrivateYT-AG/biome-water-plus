@@ -1,0 +1,12 @@
+{
+  "water_color": 1352389,
+  "water_fog_color": 1352389,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#14a2c5"
+  },
+  "targets": [
+    "minecraft:jungle",
+    "minecraft:bamboo_jungle",
+    "minecraft:sparse_jungle"
+  ]
+}

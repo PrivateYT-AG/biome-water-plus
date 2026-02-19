@@ -1,0 +1,14 @@
+{
+  "water_color": 6443678,
+  "water_fog_color": 6443678,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#62529e"
+  },
+  "targets": [
+    "minecraft:the_end",
+    "minecraft:small_end_islands",
+    "minecraft:end_barrens",
+    "minecraft:end_midlands",
+    "minecraft:end_highlands"
+  ]
+}

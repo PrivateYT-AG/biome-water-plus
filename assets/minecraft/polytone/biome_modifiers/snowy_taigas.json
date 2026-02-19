@@ -1,0 +1,8 @@
+{
+  "water_color": 2121347,
+  "water_fog_color": 2121347,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#205e83"
+  },
+  "targets": ["minecraft:snowy_taiga"]
+}

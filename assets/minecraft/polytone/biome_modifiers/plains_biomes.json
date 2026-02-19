@@ -1,0 +1,11 @@
+{
+  "water_color": 4501493,
+  "water_fog_color": 4501493,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#44aff5"
+  },
+  "targets": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains"
+  ]
+}

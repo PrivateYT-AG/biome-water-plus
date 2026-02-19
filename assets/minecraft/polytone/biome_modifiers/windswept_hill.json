@@ -1,0 +1,8 @@
+{
+  "water_color": 31735,
+  "water_fog_color": 31735,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#007bf7"
+  },
+  "targets": ["minecraft:windswept_hills"]
+}

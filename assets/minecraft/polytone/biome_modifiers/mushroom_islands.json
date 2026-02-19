@@ -1,0 +1,8 @@
+{
+  "water_color": 9079191,
+  "water_fog_color": 9079191,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#8a8997"
+  },
+  "targets": ["minecraft:mushroom_fields"]
+}

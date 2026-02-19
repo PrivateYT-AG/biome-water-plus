@@ -1,0 +1,8 @@
+{
+  "water_color": 3319192,
+  "water_fog_color": 3319192,
+  "attributes_modifiers": {
+    "water_fog_color": "#32a598"
+  },
+  "targets": ["minecraft:desert"]
+}

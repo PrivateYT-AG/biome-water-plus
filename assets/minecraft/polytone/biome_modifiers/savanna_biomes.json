@@ -1,0 +1,12 @@
+{
+  "water_color": 2919324,
+  "water_fog_color": 2919324,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#2c8b9c"
+  },
+  "targets": [
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    "minecraft:windswept_savanna"
+  ]
+}

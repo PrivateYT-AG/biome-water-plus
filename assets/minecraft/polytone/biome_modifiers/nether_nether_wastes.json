@@ -1,0 +1,11 @@
+{
+  "water_color": 9460055,
+  "water_fog_color": 9460055,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#905957"
+  },
+  "targets": [
+    "minecraft:nether_wastes",
+    "minecraft:crimson_forest"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "water_color": 5936276,
+  "water_fog_color": 5936276,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#5a9494"
+  },
+  "targets": [
+    "minecraft:soul_sand_valley",
+    "minecraft:warped_forest"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 127
+    },
+    "description": {
+      "translate": "privateyt.biome_water.description",
+      "fallback": "Overhaul of default water colors. ",
+      "color": "#5d80ae",
+      "extra": [
+        {
+          "translate": "privateyt.biome_water.description.require",
+          "fallback": "Requires Polytone",
+          "color": "#b2665d",
+          "hover_event": {
+            "action": "show_text",
+            "value": {
+              "translate": "privateyt.biome_water.hover",
+              "fallback": "This pack will not work if you\ndo not have Polytone installed."
+            }
+          }
+        }
+      ]
+    },
+    "min_format": 15,
+    "max_format": 127
+  }
+}

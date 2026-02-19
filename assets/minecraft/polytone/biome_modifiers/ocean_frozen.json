@@ -1,0 +1,11 @@
+{
+  "water_color": 2453685,
+  "water_fog_color": 2453685,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#2570b5"
+  },
+  "targets": [
+    "minecraft:frozen_ocean",
+    "minecraft:deep_frozen_ocean"
+  ]
+}

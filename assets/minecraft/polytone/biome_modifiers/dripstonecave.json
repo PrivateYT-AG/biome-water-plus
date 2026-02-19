@@ -1,0 +1,8 @@
+{
+  "water_color": 2844569,
+  "water_fog_color": 2844569,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#2b6799"
+  },
+  "targets": ["minecraft:dripstone_caves"]
+}

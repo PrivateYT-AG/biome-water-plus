@@ -1,0 +1,8 @@
+{
+  "water_color": 3894481,
+  "water_fog_color": 3894481,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#3b6cd1"
+  },
+  "targets": ["minecraft:dark_forest"]
+}

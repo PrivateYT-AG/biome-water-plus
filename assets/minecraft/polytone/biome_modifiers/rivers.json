@@ -1,0 +1,8 @@
+{
+  "water_color": 34047,
+  "water_fog_color": 34047,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#0084ff"
+  },
+  "targets": ["minecraft:river"]
+}

@@ -1,0 +1,16 @@
+{
+  "water_color": 943019,
+  "water_fog_color": 943019,
+  "attributes_modifiers": {
+    "minecraft:visual/water_fog_color": "#0e63ab"
+  },
+  "targets": [
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:stony_peaks",
+    "minecraft:jagged_peaks",
+    "minecraft:frozen_peaks",
+    "minecraft:grove",
+    "minecraft:snowy_slopes"
+  ]
+}
