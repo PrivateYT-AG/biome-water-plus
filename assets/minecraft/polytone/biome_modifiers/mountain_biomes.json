@@ -5,6 +5,7 @@
     "minecraft:visual/water_fog_color": "#0e63ab"
   },
   "targets": [
+    "minecraft:windswept_hills",
     "minecraft:windswept_forest",
     "minecraft:windswept_gravelly_hills",
     "minecraft:stony_peaks",
