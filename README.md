@@ -1,4 +1,4 @@
-# Biome Water
+# BiomeWater+
 An overhaul of water colors in many biomes. Most of the colors are based on Minecraft: Bedrock Edition, with some custom ones for mountains and cave biomes such as frozen peaks, and deep dark.
 
 ## Changelog
