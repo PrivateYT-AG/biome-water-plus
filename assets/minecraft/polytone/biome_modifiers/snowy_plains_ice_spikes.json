@@ -5,7 +5,7 @@
     "minecraft:visual/water_fog_color": "#14559b"
   },
   "targets": [
-    "minecraft:plains",
-    "minecraft:sunflower_plains"
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes"
   ]
 }
